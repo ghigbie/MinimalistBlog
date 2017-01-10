@@ -22,11 +22,18 @@ body {
 .date{
 	color: #3498db;
 	text-transform: uppercase;
+	letter-spacing: 0.2rem; /*rem is just like em, excet they are set by root element on page*/
 	margin-left: 10px;
 }
 
+.quote {
+	border-left: 3px solid #bdb3c7;
+	padding-left: 4px;
+	padding-top: 0;
+}
+
 h1 {
-	color: #2c3e50;
+	color: #2c3e50git ;
 	margin: 10px;
 
 }
@@ -35,11 +42,6 @@ p {
 	margin-left: 13px;
 }
 
-.firstParagraph {
-	border-left: 3px solid #bdb3c7;
-	padding-left: 4px;
-	padding-top: 0;
-}
 
 .lastParagraph {
 	padding: 2px;
