@@ -6,7 +6,7 @@ body {
 
 }
 
-#date{
+.date{
 	color: #3498db;
 	text-transform: uppercase;
 }
@@ -14,5 +14,5 @@ body {
 h2 {
 	color: #2c3e50;
 	font-family: "Source Sans Pro";
-	
+
 }
