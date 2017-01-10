@@ -1,13 +1,13 @@
 /*This CSS file was created in the command line */
 /**/
 
-
 body {
 	border: 20px solid #bdb3c7;
 }
 
 #date{
 	color: #3498db;
+	text-transform: uppercase;
 }
 
 h2 {
