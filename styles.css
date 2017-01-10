@@ -3,6 +3,7 @@
 
 body {
 	border: 20px solid #bdb3c7;
+
 }
 
 #date{
@@ -12,4 +13,6 @@ body {
 
 h2 {
 	color: #2c3e50;
+	font-family: "Source Sans Pro";
+	
 }
