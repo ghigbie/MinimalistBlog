@@ -17,13 +17,24 @@ body {
 h2 {
 	color: #2c3e50;
 	font-family: "Source Sans Pro";
+	margin: 10px;
 
+}
+p {
+	margin-right: 5px;
+	margin-left: 10px;
 }
 
 .firstParagraph {
 	border-left: 3px solid #bdb3c7;
+	padding: 2px;
 }
 
 .lastParagraph {
-	border-bottom: 1px solid #bdb3c7;
+	padding: 2px;
+}
+
+hr{
+	margin-right: 5px;
+	margin-left: 10px;
 }
