@@ -27,7 +27,7 @@ body {
 }
 
 .quote {
-	border-left: 3px solid #bdb3c7;
+	border-left: 4px solid #4f73b3;
 	padding-left: 4px;
 	padding-top: 0;
 }
@@ -35,6 +35,7 @@ body {
 h1 {
 	color: #2c3e50git ;
 	margin: 10px;
+	font-size: 2.0rem; 
 
 }
 p {
